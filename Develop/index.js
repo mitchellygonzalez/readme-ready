@@ -11,3 +11,5 @@ function init() {}
 
 // Function call to initialize app
 init();
+
+console.log("Node is working");
