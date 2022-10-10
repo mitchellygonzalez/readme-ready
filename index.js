@@ -32,7 +32,18 @@ const questions = [
     {
         type:"input",
         name:"license",
-        message:"Enter the license being used?"
+        message:"What license are you using for your project?",
+        choices: ["BSD 3-Clause License", "Apache 2.0 License", "Boost Software License 1.0"]
+    },
+        {
+        type:"input",
+        name:"contributing",
+        message:"explain how other contributors can add to the project"
+    },
+    {
+        type:"input",
+        name:"tests",
+        message:"provide test instructions for your application"
     },
     {
         type:"input",
@@ -44,6 +55,7 @@ const questions = [
         name:"email",
         message:"Enter your email address. This is so that users can  contact you in case of any questions:"
     },
+    
 ];
 
 // TODO: Create a function to write README file
