@@ -1,35 +1,36 @@
 
-  # This is the title
-  https://github.com/mitchellygonzalez/This is the title
+  # Thisisthetitle
+  https://github.com/mitchellygonzalez/Thisisthetitle
   ## Description
-  Here's what the project is about!
+  Here's a description of what my project is about
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
+  * [Contributing] (#contributing)
+  * [Tests] (#tests)
   * [Questions](#questions)
 
   ## Installation
   To run the application, the following must be installed:
-  The user needs to install all of these packages:...
+  mongodb, node.js, express.js, insomnia
 
   ## Usage
   In order to use this app,
-  The app used is: ...
+  This is a brief description of how the app is used, for further details please refer to our website at ....
 
   ## License:
   This project is licensed under:
-  I'm not using a license this time!
+  No license
 
   ## Contributing
   How can others contribute to this project?
-  Others can contribute to this project by..
-
+  Clone this repo and edit it. Then push separately onto a different branch
 
   ## Tests
   Provide test instructions for your application:
-  Here are some instructions
+  Here are some detailed instructions ....
 
   ## Questions
   If you have any questions, you may open an issue at:
