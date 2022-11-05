@@ -17,7 +17,7 @@ const questions = [
     {
         type:"input",
         name:"tableOfContents",
-        message:"Table of Contents? Just press enter."
+        message:"Table of Contents, Press enter."
     },
     {
         type:"input",
