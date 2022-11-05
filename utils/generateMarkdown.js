@@ -32,6 +32,8 @@ function generateMarkdown(data) {
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
+  * [Contributing] (#contributing)
+  * [Tests] (#tests)
   * [Questions](#questions)
 
   ## Installation
@@ -49,7 +51,6 @@ function generateMarkdown(data) {
   ## Contributing
   How can others contribute to this project?
   ${data.contributing}
-
 
   ## Tests
   Provide test instructions for your application:
