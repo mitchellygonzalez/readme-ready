@@ -1,6 +1,5 @@
 # readme-ready
 
-# sociable-mediator
 #### Github link:  https://github.com/mitchellygonzalez/readme-ready
 
 ## Table of Contents
